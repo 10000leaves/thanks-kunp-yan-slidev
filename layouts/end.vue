@@ -1,7 +1,7 @@
 <template>
   <div class="slidev-layout cover text-center text-center end" layout="cover">
     <div class="my-auto w-full">
-      <h1>watanabeさんのご活躍を<br>一同お祈りしています。</h1>
+      <h1>kunp-yanさんのご活躍を<br>一同お祈りしています。</h1>
     </div>
   </div>
 </template>

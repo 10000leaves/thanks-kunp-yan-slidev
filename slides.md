@@ -154,11 +154,11 @@ class: 'text-center'
 
 # ka-horikawa  
 
-<div class="grid grid-cols-[80%,20%]"><div>
+<div class="grid grid-cols-[50%,50%]"><div>
 
 メッセージ考え中
 
-</div><div class="text-10xl m-0 animate-ping">
+</div><div class="text-5xl m-0 animate-spin">
   🔄
 </div></div>
 
