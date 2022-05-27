@@ -158,8 +158,8 @@ class: 'text-center'
 
 メッセージ考え中
 
-</div><div>
-  <twemoji-counterclockwise-arrows-button class="text-10xl m-0 animate-ping"/>
+</div><div class="text-10xl m-0 animate-ping">
+  🔄
 </div></div>
 
 ---
